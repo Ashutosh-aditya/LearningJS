@@ -5,6 +5,7 @@ var myobj =
     prop3: 'prop-3',
     prop4: 'prop-4'
 };
+
 console.log(myobj['prop1']);
 console.log(myobj.prop2);
 
