@@ -7,5 +7,3 @@ console.log(path.resolve(__dirname,str));
 console.log(path.resolve(__dirname));
 console.log(path.resolve(__filename));
 
-
-
